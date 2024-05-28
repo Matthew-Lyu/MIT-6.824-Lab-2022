@@ -4,6 +4,8 @@
 
 MIT 6.824是一门由MIT提供的分布式系统课程。Lab2和Lab3是该课程中的两个实验，主要内容是Raft算法。
 
+<img src="./assets/image-20240528200624702.png" alt="image-20240528200624702" style="zoom:50%;" />
+
 ### Lab2: Raft Consensus Algorithm
 
 在Lab2中，需要实现Raft一致性算法的各个组件，包括选举、日志复制、心跳等。实验的目标是确保系统在面临节点故障时依然能够保持一致性，并且能够在故障恢复后继续工作。
